@@ -1,0 +1,48 @@
+/******************
+FIXING ELEMENTS
+******************/
+
+/*Buttons*/
+.cta1:hover{
+    text-decoration: none;
+    color: red;
+    background-color: black !important;
+}
+
+.icon:hover {
+    text-decoration: none;
+    color: limegreen;
+}
+
+
+#bg{
+    opacity: 0.6;
+}
+
+#reservation-div {
+    height: 500px;
+    
+}
+
+/*RESREVER BTN HOMEPAGE*/
+#header > nav > ul > li:nth-child(2) > a {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+/*RESREVER BTN HOMEPAGE on HOVER*/
+#header > nav > ul > li:nth-child(2) > a:hover {
+    background-color: white;
+    color: forestgreen;
+    font-weight: bold;
+}
+
+
+.cta1-active:hover {
+    background-color: black!important;
+    color: limegreen!important;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
